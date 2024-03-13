@@ -1,0 +1,22 @@
+.footer-container{
+    background-color: black;
+    height: 330px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 500px;
+    padding-top: 80px;
+    padding-left: 100px;
+    border-radius: 40px 40px 0px 0px ;
+}
+.footer-container h1{
+    font-size: 30px;
+}
+.footer-container p{
+    font-size: 20px;
+    color: rgb(149, 149, 149);
+}
+.footer-container span{ 
+    font-size: 23px;
+    color: rgb(149, 149, 149);
+}                                                                                       

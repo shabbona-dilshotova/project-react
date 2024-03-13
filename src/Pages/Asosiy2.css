@@ -1,0 +1,51 @@
+.others-container{
+    background-color: white;
+    width: 1200px;
+    height: 1500px;
+    padding: 100px;
+    margin-left: 200px;
+    border-radius: 10px;
+    overflow: scroll;
+    margin-top: 80px;
+}
+.asosiy2-container{
+    font-size: 20px;
+}
+.asosiy2-container p{
+    margin-left: 1300px;
+    font-size: 30px;
+    color: grey;
+}
+.asosiy2-container b{
+    font-size: 40px ;
+    margin-left: 200px; 
+}
+.asosiy2-container .home{
+    text-decoration: none;
+    color: black;
+    margin-left: 120px;
+}
+.asosiy2-container span{
+    color: grey;
+    margin-left: 10px;
+}
+.others-container .others{
+    width: 1200px;
+    height: 120px;
+    border: 2px rgb(152, 151, 151) solid;
+    border-radius: 10px;
+}
+
+.others p{
+    font-size: 20px ;
+    color: grey;
+    margin-left: 20px;
+}
+.others h1{
+    margin-left:20px ;
+    font-size: 24px;
+}
+.others span{
+    color: red ;
+    font-size: 34px;
+}
